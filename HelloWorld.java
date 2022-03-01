@@ -4,6 +4,6 @@ System.out.println("Hello World from Sai");
   int a=10;
 int b=20;
   int c=50;
-  int d=60;
+  int e=30;
 }
 }
